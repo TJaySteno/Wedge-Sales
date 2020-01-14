@@ -1,0 +1,15 @@
+{
+  "name": "wedge-sales",
+  "version": "1.0.0",
+  "description": "Take Wedge sales and reformat it into an app to allow a user to track their favorite items",
+  "main": "scrape.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trent Stenoien",
+  "license": "ISC"
+}
